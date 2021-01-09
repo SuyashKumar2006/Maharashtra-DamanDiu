@@ -1,0 +1,38 @@
+div.maha {
+padding-right: 5mm;
+    margin-top: -4mm;
+    margin: auto;
+    width:400px;
+    color:  black;
+    border: 2px solid black;
+    border-radius: 80px;
+
+}
+body {
+    background-color:lightyellow ;
+}
+div.UT {
+
+    margin-top: -4mm;
+    margin: auto;
+    width:400px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 80px;
+
+}
+
+p.intro{
+    color:  rgb(156, 9, 161);
+}
+.btn{
+    align-self: center;
+    margin-top: 10mm;
+}
+.btn2{
+    align-self: center;
+    margin-top: 10mm;
+}
+.hi{
+    color:lime;
+}

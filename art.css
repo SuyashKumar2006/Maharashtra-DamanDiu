@@ -1,0 +1,35 @@
+.art-form{
+    background-color: limegreen;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.Warli {
+    margin-top: 10mm;
+    background-color: maroon;
+    font-family: cursive;
+    border: 2px solid white;
+    border-radius: 5mm;
+
+}
+.Himroo {
+    margin-top: 10mm;
+    background-color: maroon;
+    font-family: cursive;
+    border: 2px solid white;
+    border-radius: 5mm;
+
+}
+.culture{
+    margin-top: 10mm;
+    background-color: lightcyan;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-family: cursive;
+}
+.food{
+    margin-top: 10mm;
+    background-color: lightgreen;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-family: cursive;
+}
